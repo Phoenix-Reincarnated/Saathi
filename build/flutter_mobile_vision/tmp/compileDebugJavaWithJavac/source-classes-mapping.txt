@@ -1,0 +1,73 @@
+io/github/edufolly/fluttermobilevision/ui/CameraSource.java
+ io.github.edufolly.fluttermobilevision.ui.CameraSource
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$1
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$AutoFocusCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$AutoFocusMoveCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$Builder
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$CameraAutoFocusCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$CameraAutoFocusMoveCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$CameraPreviewCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$FlashMode
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$FocusMode
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$FrameProcessingRunnable
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$PictureCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$PictureDoneCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$PictureStartCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$ShutterCallback
+ io.github.edufolly.fluttermobilevision.ui.CameraSource$SizePair
+io/github/edufolly/fluttermobilevision/barcode/BarcodeGraphicTracker.java
+ io.github.edufolly.fluttermobilevision.barcode.BarcodeGraphicTracker
+io/github/edufolly/fluttermobilevision/ocr/OcrGraphicTracker.java
+ io.github.edufolly.fluttermobilevision.ocr.OcrGraphicTracker
+io/github/edufolly/fluttermobilevision/ocr/MyTextBlock.java
+ io.github.edufolly.fluttermobilevision.ocr.MyTextBlock
+ io.github.edufolly.fluttermobilevision.ocr.MyTextBlock$1
+io/github/edufolly/fluttermobilevision/barcode/BarcodeTrackerFactory.java
+ io.github.edufolly.fluttermobilevision.barcode.BarcodeTrackerFactory
+io/github/edufolly/fluttermobilevision/ocr/OcrCaptureActivity.java
+ io.github.edufolly.fluttermobilevision.ocr.OcrCaptureActivity
+io/github/edufolly/fluttermobilevision/ui/CameraSourcePreview.java
+ io.github.edufolly.fluttermobilevision.ui.CameraSourcePreview
+ io.github.edufolly.fluttermobilevision.ui.CameraSourcePreview$1
+ io.github.edufolly.fluttermobilevision.ui.CameraSourcePreview$SurfaceCallback
+io/github/edufolly/fluttermobilevision/face/FaceCaptureActivity.java
+ io.github.edufolly.fluttermobilevision.face.FaceCaptureActivity
+io/github/edufolly/fluttermobilevision/util/MobileVisionException.java
+ io.github.edufolly.fluttermobilevision.util.MobileVisionException
+io/github/edufolly/fluttermobilevision/ocr/OcrGraphic.java
+ io.github.edufolly.fluttermobilevision.ocr.OcrGraphic
+io/github/edufolly/fluttermobilevision/barcode/BarcodeCaptureActivity.java
+ io.github.edufolly.fluttermobilevision.barcode.BarcodeCaptureActivity
+io/github/edufolly/fluttermobilevision/FlutterMobileVisionDelegate.java
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionDelegate
+io/github/edufolly/fluttermobilevision/BuildConfig.java
+ io.github.edufolly.fluttermobilevision.BuildConfig
+io/github/edufolly/fluttermobilevision/face/MyFace.java
+ io.github.edufolly.fluttermobilevision.face.MyFace
+ io.github.edufolly.fluttermobilevision.face.MyFace$1
+io/github/edufolly/fluttermobilevision/util/AbstractCaptureActivity.java
+ io.github.edufolly.fluttermobilevision.util.AbstractCaptureActivity
+ io.github.edufolly.fluttermobilevision.util.AbstractCaptureActivity$1
+io/github/edufolly/fluttermobilevision/barcode/BarcodeUpdateListener.java
+ io.github.edufolly.fluttermobilevision.barcode.BarcodeUpdateListener
+io/github/edufolly/fluttermobilevision/face/FaceTrackerFactory.java
+ io.github.edufolly.fluttermobilevision.face.FaceTrackerFactory
+io/github/edufolly/fluttermobilevision/FlutterMobileVisionUtils.java
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionUtils
+io/github/edufolly/fluttermobilevision/barcode/BarcodeGraphic.java
+ io.github.edufolly.fluttermobilevision.barcode.BarcodeGraphic
+io/github/edufolly/fluttermobilevision/ocr/OcrTrackerFactory.java
+ io.github.edufolly.fluttermobilevision.ocr.OcrTrackerFactory
+io/github/edufolly/fluttermobilevision/FlutterMobileVisionPlugin.java
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionPlugin
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionPlugin$MethodResultWrapper
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionPlugin$MethodResultWrapper$1
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionPlugin$MethodResultWrapper$2
+ io.github.edufolly.fluttermobilevision.FlutterMobileVisionPlugin$MethodResultWrapper$3
+io/github/edufolly/fluttermobilevision/face/FaceGraphic.java
+ io.github.edufolly.fluttermobilevision.face.FaceGraphic
+io/github/edufolly/fluttermobilevision/face/FaceGraphicTracker.java
+ io.github.edufolly.fluttermobilevision.face.FaceGraphicTracker
+io/github/edufolly/fluttermobilevision/ui/GraphicOverlay.java
+ io.github.edufolly.fluttermobilevision.ui.GraphicOverlay
+ io.github.edufolly.fluttermobilevision.ui.GraphicOverlay$Graphic
