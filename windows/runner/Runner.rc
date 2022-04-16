@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "andha_ocr" "\0"
+            VALUE "FileDescription", "saathi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "andha_ocr" "\0"
+            VALUE "InternalName", "saathi" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "andha_ocr.exe" "\0"
-            VALUE "ProductName", "andha_ocr" "\0"
+            VALUE "OriginalFilename", "saathi.exe" "\0"
+            VALUE "ProductName", "saathi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

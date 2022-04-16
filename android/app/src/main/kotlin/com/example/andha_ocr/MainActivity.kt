@@ -1,4 +1,4 @@
-package com.example.andha_ocr
+package com.example.saathi
 
 import io.flutter.embedding.android.FlutterActivity
 

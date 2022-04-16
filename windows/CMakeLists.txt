@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(andha_ocr LANGUAGES CXX)
+project(saathi LANGUAGES CXX)
 
-set(BINARY_NAME "andha_ocr")
+set(BINARY_NAME "saathi")
 
 cmake_policy(SET CMP0063 NEW)
 

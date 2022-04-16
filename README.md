@@ -1,4 +1,4 @@
-# andha_ocr
+# saathi
 
 A new Flutter project.
 
